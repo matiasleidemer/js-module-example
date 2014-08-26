@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matiasleidemer/js-module-example/issues"
   },
-  "homepage": "https://github.com/matiasleidemer/js-module-example"
+  "homepage": "https://github.com/matiasleidemer/js-module-example",
+  "devDependencies": {
+    "browserify": "^5.10.1"
+  }
 }
