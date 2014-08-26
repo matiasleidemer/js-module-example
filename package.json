@@ -1,0 +1,19 @@
+{
+  "name": "js-module-example",
+  "version": "0.0.1",
+  "description": "JS example app using npm, common-js and browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matiasleidemer/js-module-example.git"
+  },
+  "author": "Matias Leidemer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiasleidemer/js-module-example/issues"
+  },
+  "homepage": "https://github.com/matiasleidemer/js-module-example"
+}
