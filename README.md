@@ -12,4 +12,4 @@ This is just a JS example app using npm, common-js and browserify. Nothing fancy
 
 ### About
 
-This code was found on [Ampersand.js documentation](http://ampersandjs.com/learn/npm-browserify-and-modules). I thought it'll be nice to have to just have it here.
+This code was found on [Ampersand.js documentation](http://ampersandjs.com/learn/npm-browserify-and-modules). I thought it'll be nice to have it here.
