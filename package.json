@@ -18,5 +18,8 @@
   "homepage": "https://github.com/matiasleidemer/js-module-example",
   "devDependencies": {
     "browserify": "^5.10.1"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0"
   }
 }
